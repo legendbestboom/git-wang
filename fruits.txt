@@ -1,4 +1,5 @@
 banana
 melon
+strawberry
 pineapple
 grape
